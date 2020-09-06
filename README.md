@@ -2,10 +2,10 @@
 
 To run the project on your system 
 
-# git clone https://github.com/deepakumaro/image-uploader.git
+ git clone https://github.com/deepakumaro/image-uploader.git
 
-# npm i 
+ npm i 
 
-# npm start
+ npm start
 
-go to localhost: 3000
+open brrowser and go to url : localhost:3000
